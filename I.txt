@@ -1,0 +1,10 @@
+ ABCDEFGHI
+1ooxoooooo
+2ooxooxxxo
+3ooxoooooo
+4ooooooooo
+5oooxxxxoo
+6ooooooooo
+7oooooooxo
+8xxxxxooxo
+9oooooooxo
